@@ -11,25 +11,28 @@ nav: true
 
 ## Dates
 
-All deadlines are 11:59 PM Pacific time.
+All deadlines are AOE(Anywhere on earth)
 
-+ Workshop Paper Due Date: <del>April 6, 2020</del> **April 20, 2020** (deferred due to the pandemic)
-+ Notification of acceptance: <del>May 4, 2020</del> **May 11, 2020**
-+ Camera-ready papers due: <del>May 18, 2020</del> **May 22, 2020** 
-+ Workshop date: **July 10, 2020**
++ Workshop Paper Due Date: 
++ Notification of acceptance: 
++ Camera-ready papers due:  
++ Workshop date: 
 
 
 ## List of Topics 
-
 This workshop aims to bring together researchers and practitioners from different communities related to NLIs. As such, the workshop welcomes and covers a wide range of topics around NLIs, including (non-exclusively):
-
-+ **Linguistic analysis and modeling**. What are the linguistic characteristics of human-machine interaction via NLIs? How to develop better models to accommodate and leverage such characteristics?
-+ **Interactivity, continuous learning, and personalization**. How to enable NLIs to interact with users to resolve the knowledge gaps between them for better accuracy and transparency? Can NLIs learn from interactions to reduce human intervention over time?  How can NLIs (learn to) be customized and adapt to user preferences? Interaction design, faithful generation, learning from user feedback, online learning.
-+ **Data collection and crowdsourcing**. Modern machine learning models are data-hungry while data collection for NLIs are particularly expensive because of the domain expertise needed for formal meaning representation and grounding. How to collect data for NLIs at scale with low cost?
-+ **Scalability, adaptability, and portability**. How to construct NLIs that can reliably and efficiently operate at a large scale (e.g., on billion-scale knowledge graphs)? How to construct NLIs that can simultaneously support multiple inter-connected domains of possibly different nature? How to transfer knowledge learned from existing domains to help learning in new domains?
-+ **Explainability and trustworthiness**. How to make the reasoning process and the results explainable and trustworthy to users? How to help users understand how an answer is obtained or a command is executed?
-+ **Privacy**. How to ensure NLIs are compliant with privacy constraints? How to train, monitor, and debug NLIs within the compliance boundary?
-+ **Evaluation and user study**. How to systematically evaluate different usability aspects of an NLI as perceived by users? What are the protocols for conducting a reproducible user study? Whether there is significant gap between in vitro and in vivo evaluation and how to bridge that?
+  
++ **Inference on large knowledge graphs/ tables/ structured documents**
++ **Inference over multiple multi modal documents (both structured and unstructured)**
++ **Conversational QA**
++ **Dialog Systems**
++ **Intent detection, slot filing**
++ **Summarize retrieved details from multiple documents**
++ **Speech interface related issues**
++ **Generalizable natural language interfacing models for different (kinds of) underlying data**
++ **Personalization**
++ **Life-long learning**
++ **Explainability**
 
 ## Submission Guidelines
 

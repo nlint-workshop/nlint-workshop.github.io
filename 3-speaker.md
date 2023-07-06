@@ -15,6 +15,16 @@ nav: true
 <br>
 
 # Speaker Details
+<a name="vinay"></a>
+<img align="left" src="images/vinay.png" width="25%" style="margin: 0px 15px 5px 0px;"> [Vinayshekhar Bannihatti Kumar](https://vinayshekhar000.github.io/)  (AWS AI Labs)
+
+**Bio**: Vinayshekhar Bannihatti Kumar is an Applied Scientist at AWS AI Labs working on natural language interfaces for AWS Customers. 
+His current research focuses on building large language models with the theme of making AWS easier to use. 
+He works on generation tasks with a goal to allow conversational systems to produce engaging content to users. 
+He has published papers in creative content generation, summarization and legal document analysis. 
+Prior to joining Amazon, he graduated with Masters in Language technology where he was building NLInt for making privacy policies more comprehensible. 
+He has also served on the program committee of various top tier conferences like ACL, NAACL, AAAI, 
+<br>
 
 <a name="joyce_chai"></a>
 <img align="left" src="images/joycechai.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
