@@ -42,12 +42,12 @@ The aim of this workshop is to bring together researchers in both industry and a
 
 # Dates
 
-All deadlines are AOE(Anywhere on Earth).
+All deadlines are AOE(Anywhere on earth)
 
-+ Workshop Paper Due Date:   
-+ Notification of acceptance:  
-+ Camera-ready papers due:   
-+ Workshop date: 
++ Workshop Paper Due Date: August 18, 2023
++ Notification of acceptance: October 2, 2023
++ Camera-ready papers due: October 15, 2023
++ Workshop date: November 1, 2023
 
 <br>
 
