@@ -7,7 +7,7 @@ title: NLInt 2023
 ---
 
 ## [NLInt 2023](http://nli-acl2023.github.io): Second Workshop on Natural Language Interfaces
-### at [IJCNLP-AACL 2023](https://acl2020.org/), November 1, 2023.  
+### at [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/), November 1, 2023.  
 <!-- <div class="fb-share-button" data-href="http://www.ijcnlp-aacl2023.org/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
