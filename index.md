@@ -55,8 +55,6 @@ All deadlines are AOE(Anywhere on earth)
 <!--{% include figure.html file="speakers.png" alt="invited speakers" width="110%" %}-->
 Stay Tuned for Speaker line up! 
 
-Details about the speakers and talks can be found [here](http://nli-acl2020.github.io/3-speaker.html).
-
 <br>
 
 # Topics
