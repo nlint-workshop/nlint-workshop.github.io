@@ -79,7 +79,7 @@ This workshop aims to bring together researchers and practitioners from differen
 
 The workshop is organized by [Vinayshekhar Bannihatti Kumar](https://vinayshekhar000.github.io/) (AWS AI Labs), [Sopan Khosla](https://sopankhosla.github.io/) (AWS AI Labs)，[Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs), [Scott Wen-tau Yih](http://scottyih.org/) (Facebook AI Research), [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Tania Bedrax-Weiss](https://research.google/people/105765/)(Google Research), [Dan Roth](https://scholar.google.com/citations?user=E-bpPWgAAAAJ&hl=en)(AWS AI Labs) and [Katrin Kirchoff](https://www.amazon.science/author/katrin-kirchhoff) (AWS AI Labs)
 
-For any questions, please email [](mailto: )
+For any questions, please email [nli.at.aacl@gmail.com](mailto: nli.at.aacl@gmail.com)
 
 <br>
 
