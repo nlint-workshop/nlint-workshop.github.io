@@ -6,7 +6,7 @@ nav: true
 
 # Call for Papers
 
-**Submission website**: 
+**Submission website**: Link to appear soon
 
 
 ## Dates
