@@ -6,7 +6,7 @@ nav: true
 
 # Call for Papers
 
-**Submission website**: Link to appear soon
+**Submission website**: https://softconf.com/ijcnlp2023/WorkshopNLI2023/
 
 
 ## Dates
