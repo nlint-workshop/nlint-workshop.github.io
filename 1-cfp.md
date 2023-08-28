@@ -6,14 +6,14 @@ nav: true
 
 # Call for Papers
 
-**Submission website**: https://softconf.com/ijcnlp2023/WorkshopNLI2023/
+**Submission website**: [https://softconf.com/ijcnlp2023/WorkshopNLI2023/](https://softconf.com/ijcnlp2023/WorkshopNLI2023/)
 
 
 ## Dates
 
 All deadlines are AOE(Anywhere on earth)
 
-+ Workshop Paper Due Date: August 18, 2023
++ Workshop Paper Due Date: September 15, 2023 ~~August 18, 2023~~
 + Notification of acceptance: October 2, 2023
 + Camera-ready papers due: October 15, 2023
 + Workshop date: November 1, 2023
