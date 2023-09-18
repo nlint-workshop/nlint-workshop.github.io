@@ -13,7 +13,7 @@ nav: true
 
 All deadlines are AOE(Anywhere on earth)
 
-+ Workshop Paper Due Date: September 15, 2023 ~~August 18, 2023~~
++ Workshop Paper Due Date: September 22, 2023 ~~September 15, 2023~~ ~~August 18, 2023~~
 + Notification of acceptance: October 2, 2023
 + Camera-ready papers due: October 15, 2023
 + Workshop date: November 1, 2023
